@@ -6,9 +6,6 @@ This script lists backup files, uncommon documents in the repository and the usa
 
 Example how to run:
 ```
-$ python3 anti-backup-files.py -p repository_dir
-
-Real context
 $ python3 anti-backup-files.py -p /home/cooler/codes/
 Anti-backup-files v0.1 
  by github.com/CoolerVoid
