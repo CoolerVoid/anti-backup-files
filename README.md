@@ -1,5 +1,8 @@
 # Anti-backup-files
-This script detects backup files, leaks of documents in the repository and the absence of gitignore.
+This script lists backup files, uncommon documents in the repository and the usage of gitignore.
+
+# The purpose
+ So always is necessary, for the sake of security, before deploying repository content in production to check unnecessary files. Yes, this script can help you in this context to enumerate resources. Always use git ignore to prevent excessive resources.
 
 Example how to run:
 ```
