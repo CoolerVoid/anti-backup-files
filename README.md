@@ -1,5 +1,5 @@
 # Anti-backup-files
-Robot that detects backup files, leak of documents in repository and absence of gitignore.
+This script detects backup files, leaks of documents in the repository and the absence of gitignore.
 
 Example how to run:
 ```
