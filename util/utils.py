@@ -51,7 +51,7 @@ def show_results(bak,doc,ignore):
 def list_all(directory):
  detect_backup={".dump",".rar",".7z",".zip",".gz",".backup",".bak",".tar","dmp",".tmp~",
                 ".old",".swp","conf~",".sql",".db",".tmp",".cache",".log",".velho"}
- detect_documents={".pdf",".xls",".ppt",".odp",".docx",".csv",".doc",".pptx",".dwg","dxf",".dbq"}
+ detect_documents={".pdf",".xls",".ppt",".odp",".docx",".csv",".doc",".pptx",".dwg","dxf",".dbq",".pem"}
  ret_bak=[] 
  ret_doc=[]
  ret_gitignore=[]
